@@ -1,28 +1,28 @@
 {
-  "name": "DARK-SHUTER-MD-V2",
-  "description": "DARK SHUTER MD simple and essay to deploy wa bot",
+  "name": "Nizzu ",
+  "description": "Hell Bea Id Far For The Sky 💗",
   "logo": "https://github.com/DarksadasYT1/DARK-SHUTER-HARD/blob/main/LOGO/darkshuterv2.jpeg?raw=true",
   "keywords": ["nodejs", "bot", "whatsapp bot", "multi device", "dark-shuter"],
   "success_url": "/",
 
   "env": {
     "GITHUB_USER_NAME": {
-      "description": "Put the user name here.",
+      "description": "Lionorwot",
       "required": true
     },  
 
     "SESSION_ID": {
-      "description": "Put the session-id here.",
+      "description": "DARK-SHUTER-MD=iAVS1RiD#l5bKwL-eoYa9tzv3NqJFw0Y__chX7tmOvr_JxODDtnA",
       "required": true
     },  
 
 
     "GITHUB_AUTH_TOKEN": {
-      "description": "Put your github authtoken here.",
+      "description": "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",
       "required": true
     },
     "REPO_NAME": {
-      "description": "Put your github authtoken here.",
+      "description": "DARK-SHUTER-MD-V2",
       "required": true
     }   
 },
